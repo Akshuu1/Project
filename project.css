@@ -28,7 +28,7 @@ a{
     font-weight: 400;
 }
 a:hover{
-    background-color:rgb(97, 195, 55)
+    color:rgb(97, 195, 55);
     border-radius: 10px;
     transition: .4s;
     font-size: 2.2vw;
